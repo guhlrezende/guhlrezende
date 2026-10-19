@@ -37,9 +37,9 @@ Transformo as aulas da faculdade em apostilas interativas. Cada capítulo explic
 
 Ainda estou em formação nessas ferramentas, e as apostilas são o meu jeito de estudar. Na AWS, trabalhei com S3, EC2 e IAM. Em machine learning, treinei um modelo KNN com scikit-learn.
 
-## 🤝 Como eu trabalho
+## 🤖 Claude no dia a dia
 
-Uso IA generativa (Claude) para escrever e revisar código e texto. As decisões e a revisão são minhas.
+Tenho conhecimento em Claude e uso de forma profissional, no trabalho e nos meus projetos. Configuro agentes e subagentes, skills, hooks e integrações via MCP, e estruturo bases de conhecimento com políticas de uso para a IA seguir.
 
 ## 📫 Contato
 
